@@ -3,3 +3,31 @@ Develop an interactive web application using Streamlit for predicting the likeli
 ## Generic Flow of projects
 
 ![image](https://github.com/DeepikaDhanaraj/MultipleDiseasePrediction/assets/133857686/fab826c8-aff9-4654-b2be-49f8bf4756bc)
+## steps
+1.Clone the MultipleDiseasePrediction repository:
+```
+git clone https://github.com/DeepikaDhanaraj/MultipleDiseasePrediction.git
+```
+2.Set Up Environment and Dependencies: 
+Ensure you have Python installed on your system. Create a virtual environment using following steps:
+
+2.1 Open your terminal or command prompt.
+
+2.2 Navigate to the directory where you want to create your virtual environment.
+
+2.3 Run the following command, replacing my_venv with your desired environment name:
+
+```
+python -m venv my_venv
+```
+3.Install the dependencies:
+```
+pip install -r requirements.txt
+```
+
+4. Running the Application
+```
+streamlit run app.py
+```
+![output]()
+
