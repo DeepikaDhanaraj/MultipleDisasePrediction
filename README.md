@@ -29,5 +29,7 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-![output]()
+![output](https://github.com/DeepikaDhanaraj/MultipleDiseasePrediction/blob/main/output/multi1.png)
+![output](https://github.com/DeepikaDhanaraj/MultipleDiseasePrediction/blob/main/output/multi2.png)
+![output](https://github.com/DeepikaDhanaraj/MultipleDiseasePrediction/blob/main/output/multi3.png)
 
